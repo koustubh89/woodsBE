@@ -11,7 +11,7 @@ Steps
    git clone <'clone url'>
 4. Now copy your folder structure inside that folder.
 5. In git bash use
-   git status                 //(this lists al the changed files in that folder)
+   git status                  //(this lists al the changed files in that folder)
 6. Do the following steps
     git add .
     git commit -m '<commit message>'
